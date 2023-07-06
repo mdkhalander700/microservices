@@ -9,4 +9,4 @@ eureka:
     
 spring:  
   application:
-    name: CONFIG-SERVER_GITHUB
+    name: CONFIG-SERVER-Default
